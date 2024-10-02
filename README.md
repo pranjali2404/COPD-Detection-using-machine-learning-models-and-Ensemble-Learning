@@ -22,4 +22,5 @@ Result-
 Maximum Accuracy- 
 1. XGboost 
 2. Logistic Regression
+
 Accuracy: 0.9523809523809523
